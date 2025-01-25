@@ -1,0 +1,36 @@
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.center {
+    text-align: center;
+}
+
+.design {
+    background-color: lightseagreen;
+}
+
+.color-text {
+    color: darkgreen;
+    text-align: center;
+}
+
+.photo-right {
+    width: 300px;
+    height: 300px;
+    float: right;
+}
+
+.photo-left {
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+.photo-center {
+    width: 300px;
+    height: 300px;
+}
